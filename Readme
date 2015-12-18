@@ -1,6 +1,0 @@
-Simple shell implementation
-
-Author: Anjali Shenoy, IIITH
-Semester: 3 (Operating Systems)
-to compile: gcc shell.c
-to execute: ./a.out
